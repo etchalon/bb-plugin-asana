@@ -1,0 +1,20 @@
+{
+  "id": "evt_demofixtur",
+  "scope": {
+    "kind": "thread"
+  },
+  "threadId": "thr_demofixtur",
+  "seq": 1,
+  "createdAt": 1792992141732,
+  "type": "client/turn/requested",
+  "data": {
+    "initiator": "user",
+    "input": [
+      {
+        "type": "text",
+        "text": "Resolve this Asana task: Change the event date to 2027\nhttps://app.asana.com/1/1100000000000100/project/1100000000000401/task/1100000000001234\n\nStart with `bb asana task 1100000000001234` to read its description, attachments, and comments, then work out the fix in this project. Don't post to Asana unless I ask.",
+        "mentions": []
+      }
+    ]
+  }
+}
