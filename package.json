@@ -1,6 +1,6 @@
 {
   "name": "bb-plugin-asana",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your Asana My Tasks inside bb: work tickets, start agent threads from them, and hand them back.",
   "license": "MIT",
   "author": "Jack Shedd",
